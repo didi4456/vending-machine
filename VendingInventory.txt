@@ -1,0 +1,12 @@
+A1|CLE Cola|1.50
+A2|Denver Root Beer|1.75
+A3|Awesome Orange Pop|2.00
+B1|Denver Dog Chips|3.00
+B2|CLE Corn Chips|2.25
+B3|Awesome Nacho Chips|1.50
+C1|Zilly Zonka Candy Bar|2.25
+C2|Purple Drank Candy|3.00
+C3|Raspberry Rancher|1.00
+D1|Icey-Fresh Gum|2.00
+D2|Bubble-Licious Gum|1.75
+D3|Tech Mints|2.50
